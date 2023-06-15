@@ -1,2 +1,2 @@
 # OpenCV
- OpenCV at AsiaEdu
+ OpenCV study
